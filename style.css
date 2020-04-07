@@ -1,0 +1,247 @@
+
+.vegetable_layout {
+    width: 1260px;
+    height: 940px;
+    background-color: #ffffff;
+  }
+
+.bg {
+    width: 1260px;
+    height: 880px;
+    background-color: #edf2c5;
+    
+}
+
+.header {
+    display: flex;
+}
+
+.logo_Vegetables {
+    width: 271px;
+    height: 42px;
+    font-family: verdana;
+    font-size: 44px;
+    font-weight: 900;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 0.82;
+    letter-spacing: normal;
+    text-align: left;
+    color: #778a50;
+    margin-top: 53px;
+    margin-bottom: 8px;
+    margin-right: 466px;
+    margin-left: 160px;
+    
+  }
+
+  .btn_facebook {
+    width: 25px;
+    height: 25px;
+    margin-top: 61px;
+    background: url("btn_facebook.png");
+  }
+
+  .btn_instagram {
+    width: 25px;
+    height: 25px;
+    margin-top: 61px;
+    margin-left: 10px;
+    background: url("btn_instagram.png");
+  }
+
+  .line_login {
+
+    border: 0;
+    width: 1px;
+    height: 25px;
+    background: #778a50;
+    background-image: linear-gradient(to right, #ccc,#778a50, #ccc);
+    margin-top: 61px;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+
+  .btn_LOGIN_box {
+    width: 60px;
+    height: 25px;
+    border-radius: 3px;
+    border: solid 1px #778a50;
+    background-color: #edf2c5;
+    margin-top: 61px;
+    margin-bottom: 17px;
+    
+    font-family: Arial;
+    font-size: 0.8rem;
+    font-weight: bold;
+    line-height: 0px;
+    color: #778a50;
+    line-height: 1.70;
+    letter-spacing: normal;
+    text-align: center;
+    color: #778a50;
+    
+  }
+
+  .btn_JOIN_box {
+    width: 50px;
+    height: 25px;
+    border-radius: 3px;
+    border: solid 1px #778a50;
+    background-color: #edf2c5;
+    margin-left: 10px;
+    margin-top: 61px;
+    
+    font-family: Arial;
+    font-size: 0.8rem;
+    font-weight: bold;
+    line-height: 0px;
+    color: #778a50;
+    line-height: 1.70;
+    letter-spacing: normal;
+    text-align: center;
+    color: #778a50;
+  }
+
+  .nav_box {
+    width: 940px;
+    height: 44px;
+    border-radius: 3px;
+    background-color: #778a50;
+    margin-left: 160px;
+    margin-bottom: 20px;
+  }
+  .list_item{
+    list-style: none;
+    margin: auto auto;
+  }
+  .item_text {
+    width: 50px;
+    height: 12px;
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: 900;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.7;
+    letter-spacing: normal;
+    text-align: left;
+    color: #edf2c5;
+    margin-left: 30px;
+    margin-right: 30px;
+  }
+  div img {
+    vertical-align : middle;
+  }
+   
+  .img_main_pumpkin {
+    width: 940px;
+    height: 448px;
+    display: flex;
+  }
+  .body_box {
+    width: 940px;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 160px;
+}
+  .body_box_title {
+    width: 445px;
+    height: 45px;
+    border-radius: 3px;
+    background-color: #778a50;
+    margin-top: 30px;
+    margin-bottom: 15px;
+  }
+
+  .box_title_cotent {
+    width: 99px;
+    height: 15px;
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: 900;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.75;
+    letter-spacing: normal;
+    text-align: left;
+    color: #edf2c5;
+    margin-left: 30px;
+}
+  .img_vegetables {
+    width: 445px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  .img_vegetables_size {
+    width: 140px;
+    height: 140px;
+  }
+  .body_box_contact_text {
+    width: 445px;
+    height: 140px;
+    border-radius: 3px;
+    background-color: #f7fbda;
+  }
+
+  .questions {
+    width: 410px;
+    height: 43px;
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    text-align: left;
+    color: #7d7d7d;
+    margin-right: 20px;
+    padding-top: 16px;
+    margin-left: 15px;
+  }
+
+  .information {
+    width: 193px;
+    height: 31px;
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.83;
+    letter-spacing: normal;
+    text-align: left;
+    color: #7d7d7d;
+    margin-left: 15px;
+  }
+
+  .line_contact_text {
+    width: 414px;
+    height: 1px;
+    border: 0;
+    background-color: #7d7d7d;
+  }
+  .box_footer {
+    width: 1260px;
+    height: 60px;
+    background-color: #778a50;
+    display: flex;
+  }
+
+  .text_footer {
+    width: 302px;
+    height: 11px;
+    vertical-align : middle;
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 3;
+    letter-spacing: normal;
+    text-align: left;
+    color: #edf2c5;
+    margin-left: 479px;
+  }
